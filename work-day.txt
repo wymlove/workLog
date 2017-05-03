@@ -1,65 +1,61 @@
-IE9ÒÔÉÏ£»
-IE¡¢»ðºü¡¢chrome¡¢360£¨¼«ËÙ¡¢¼æÈÝ£©£»
+IE9ä»¥ä¸Šï¼›
+IEã€ç«ç‹ã€chromeã€360ï¼ˆæžé€Ÿã€å…¼å®¹ï¼‰ï¼›
 
 less
-bootstrap£¨2¡¢3£©
+bootstrapï¼ˆ2ã€3ï¼‰
 gulp
 webstorm
 git
 github
 
 
-3¡¢ÈËÊÂ¹ÜÀí¡·ÈËÔ±¹ÜÀí¡·½ÌÊ¦¹ÜÀí¡ª½ÌÊ¦ÐÅÏ¢Ìí¼Ó¡ªtitleµÄÃ°ºÅÓÐµÄÖÐÎÄµÄÓÐµÄÊÇÓ¢ÎÄµÄ²»Ò»ÖÂ
-7¡¢¶¥²¿×îÓÒ²à·ÃÎÊÍøÕ¾Ö÷Ò³Ó¦¸ÃÆÁ±Îµô°É£¿
-8¡¢Ñ§¹¤¹ÜÀí¡·Ñ§Éú¹ÜÀí¡·Ñ§Éú¹ÜÀí¡ªÉèÖÃÊÕ·ÑÏî¡ª×¢:ºìÉ«×ÖÌå²»Ì«ºÃ
-9¡¢Ñ§¹¤¹ÜÀí¡·°à¼¶¹ÜÀí¡·°à¼¶ÆÀ±ÈÏîÄ¿¹ÜÀí¡ªÐÂ½¨ÏîÄ¿/Ìí¼ÓÄÚÈÝ+type=		
-10¡¢Ñ§¹¤¹ÜÀí¡·°à¼¶¹ÜÀí¡·°à¼¶ÆÀ±È¹ÜÀí¡ª¸Ä·Ö¡ª±£´æ+type=
-11¡¢Ñ§¹¤¹ÜÀí¡·½»·Ñ¹ÜÀí¡·Ñ§Éú½»·Ñ¡ªÒÑ½áÇå/Î´½áÇå¡ªÑÕÉ«
-12¡¢Ñ§¹¤¹ÜÀí¡·ËÞÉá¹ÜÀí¡·ÇÞÊÒÆÀ±ÈÏîÄ¿¹ÜÀí¡ªÐÂ½¨ÏîÄ¿/Ìí¼ÓÄÚÈÝ
-13¡¢½ÌÎñ¹ÜÀí¡·½ÌÊ¦¿¼ºË¡·¿¼ºËÏîÄ¿¹ÜÀí¡ªÐÂ½¨ÏîÄ¿/Ìí¼ÓÄÚÈÝ
-14¡¢½ÌÎñ¹ÜÀí¡·½ÌÊ¦¿¼ºË¡·¿¼ºËÈÎÎñ¹ÜÀí¡ªÆÀ·Ö¡ª±£´æ
-15¡¢ÏµÍ³ÉèÖÃ¡·ÈÕÖ¾²éÑ¯¡·ÈÕÖ¾²éÑ¯¡ªÈÕÆÚ·¶Î§µÄinput±êÇ©½¨ÒéÈ¥µôclass="input-mini"
-16¡¢IE8
-17¡¢ÏµÍ³ÉèÖÃ¡·ÈÕÖ¾²éÑ¯¡·ÈÕÖ¾²éÑ¯¡ªÈÕÆÚ·¶Î§¿ò¼Ü¿ÉÒÔ¿¼ÂÇÒýÈëbootstrap.min.css  input½¨ÒéÈ¥µôclass="input-mini"
+3ã€äººäº‹ç®¡ç†ã€‹äººå‘˜ç®¡ç†ã€‹æ•™å¸ˆç®¡ç†â€”æ•™å¸ˆä¿¡æ¯æ·»åŠ â€”titleçš„å†’å·æœ‰çš„ä¸­æ–‡çš„æœ‰çš„æ˜¯è‹±æ–‡çš„ä¸ä¸€è‡´
+7ã€é¡¶éƒ¨æœ€å³ä¾§è®¿é—®ç½‘ç«™ä¸»é¡µåº”è¯¥å±è”½æŽ‰å§ï¼Ÿ
+8ã€å­¦å·¥ç®¡ç†ã€‹å­¦ç”Ÿç®¡ç†ã€‹å­¦ç”Ÿç®¡ç†â€”è®¾ç½®æ”¶è´¹é¡¹â€”æ³¨:çº¢è‰²å­—ä½“ä¸å¤ªå¥½
+9ã€å­¦å·¥ç®¡ç†ã€‹ç­çº§ç®¡ç†ã€‹ç­çº§è¯„æ¯”é¡¹ç›®ç®¡ç†â€”æ–°å»ºé¡¹ç›®/æ·»åŠ å†…å®¹+type=		
+10ã€å­¦å·¥ç®¡ç†ã€‹ç­çº§ç®¡ç†ã€‹ç­çº§è¯„æ¯”ç®¡ç†â€”æ”¹åˆ†â€”ä¿å­˜+type=
+11ã€å­¦å·¥ç®¡ç†ã€‹äº¤è´¹ç®¡ç†ã€‹å­¦ç”Ÿäº¤è´¹â€”å·²ç»“æ¸…/æœªç»“æ¸…â€”é¢œè‰²
+12ã€å­¦å·¥ç®¡ç†ã€‹å®¿èˆç®¡ç†ã€‹å¯å®¤è¯„æ¯”é¡¹ç›®ç®¡ç†â€”æ–°å»ºé¡¹ç›®/æ·»åŠ å†…å®¹
+13ã€æ•™åŠ¡ç®¡ç†ã€‹æ•™å¸ˆè€ƒæ ¸ã€‹è€ƒæ ¸é¡¹ç›®ç®¡ç†â€”æ–°å»ºé¡¹ç›®/æ·»åŠ å†…å®¹
+14ã€æ•™åŠ¡ç®¡ç†ã€‹æ•™å¸ˆè€ƒæ ¸ã€‹è€ƒæ ¸ä»»åŠ¡ç®¡ç†â€”è¯„åˆ†â€”ä¿å­˜
+15ã€ç³»ç»Ÿè®¾ç½®ã€‹æ—¥å¿—æŸ¥è¯¢ã€‹æ—¥å¿—æŸ¥è¯¢â€”æ—¥æœŸèŒƒå›´çš„inputæ ‡ç­¾å»ºè®®åŽ»æŽ‰class="input-mini"
+16ã€IE8
+17ã€ç³»ç»Ÿè®¾ç½®ã€‹æ—¥å¿—æŸ¥è¯¢ã€‹æ—¥å¿—æŸ¥è¯¢â€”æ—¥æœŸèŒƒå›´æ¡†æž¶å¯ä»¥è€ƒè™‘å¼•å…¥bootstrap.min.css  inputå»ºè®®åŽ»æŽ‰class="input-mini"
 
-9¡¢D:\program\openresty-1.11.2.2-win32\html\static\jquery-ztree\3.5.12\css\zTreeStyle\img
+9ã€D:\program\openresty-1.11.2.2-win32\html\static\jquery-ztree\3.5.12\css\zTreeStyle\img
 
-SVN-src£ºhttp://222.168.49.126:18082/svn/dssm/04source/newPlatform/trunk/static
+SVN-srcï¼šhttp://222.168.49.126:18082/svn/dssm/04source/newPlatform/trunk/static
 
-SVN£ºwym   Wangyingming1
+SVNï¼šwym   Wangyingming1
 
 
 D:\program\openresty-1.11.2.2-win32\html\static
 @import "../variablesLibrary/blue";
 
 
-1¡¢Ñ§¹¤¹ÜÀí¡·°à¼¶¹ÜÀí¡·°à¼¶ÆÀ±È¹ÜÀí¡ª¸Ä·Ö	½ÌÎñ¹ÜÀí¡·½ÌÊ¦¿¼ºË¡·¿¼ºËÈÎÎñ¹ÜÀí¡ªÆÀ¼Û¡ª±£´æ
-2¡¢ÏµÍ³ÉèÖÃ¡·ÈÕÖ¾²éÑ¯¡·Á¬½Ó³Ø¼àÊÓ¡ª¡ªÖØÖÃ/¼ÇÂ¼ÈÕÖ¾²¢ÖØÖÃ
-4¡¢×ó²à·ÖÀàhoverºÍactiveÑÕÉ«
-5¡¢Ñ§¹¤¹ÜÀí¡·ËÞÉá¹ÜÀí¡·ÇÞÊÒÆÀ±ÈÏîÄ¿¹ÜÀí¡ªÐÂ½¨ÏîÄ¿/Ìí¼ÓÄÚÈÝ£¨360¼æÈÝ£©
-6¡¢ÏµÍ³ÉèÖÃ¡·ÈÕÖ¾²éÑ¯¡·ÈÕÖ¾²éÑ¯¡ªÈÕÀúµÄÑÕÉ«
-
+1ã€å­¦å·¥ç®¡ç†ã€‹ç­çº§ç®¡ç†ã€‹ç­çº§è¯„æ¯”ç®¡ç†â€”æ”¹åˆ†	æ•™åŠ¡ç®¡ç†ã€‹æ•™å¸ˆè€ƒæ ¸ã€‹è€ƒæ ¸ä»»åŠ¡ç®¡ç†â€”è¯„ä»·â€”ä¿å­˜
+2ã€ç³»ç»Ÿè®¾ç½®ã€‹æ—¥å¿—æŸ¥è¯¢ã€‹è¿žæŽ¥æ± ç›‘è§†â€”â€”é‡ç½®/è®°å½•æ—¥å¿—å¹¶é‡ç½®
+4ã€å·¦ä¾§åˆ†ç±»hoverå’Œactiveé¢œè‰²
+5ã€å­¦å·¥ç®¡ç†ã€‹å®¿èˆç®¡ç†ã€‹å¯å®¤è¯„æ¯”é¡¹ç›®ç®¡ç†â€”æ–°å»ºé¡¹ç›®/æ·»åŠ å†…å®¹ï¼ˆ360å…¼å®¹ï¼‰
+6ã€ç³»ç»Ÿè®¾ç½®ã€‹æ—¥å¿—æŸ¥è¯¢ã€‹æ—¥å¿—æŸ¥è¯¢â€”æ—¥åŽ†çš„é¢œè‰²
 
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 
 
-
-ÂÒÂë£º	Ñ§¹¤¹ÜÀí¡·Ñ§Éú¹ÜÀí¡·Ñ§Éú¹ÜÀí¡ªÐÞ¸Ä
-	Ñ§¹¤¹ÜÀí¡·Ñ§Éú¹ÜÀí¡·Ñ§ÉúÐÅÏ¢²éÑ¯¡ªÐÞ¸Ä
-	½ÌÎñ¹ÜÀí¡·½ÌÊ¦¿¼ºË¡·¿¼ºËÈÎÎñ¹ÜÀí¡ª²é¿´ÆÀ¼Û£¨¸ö±ð£©
-	ÏµÍ³ÉèÖÃ¡·ÏµÍ³ÉèÖÃ¡·×Öµä¹ÜÀí¡ªÌí¼Ó¼üÖµ¡ªÃèÊö
-
+ä¹±ç ï¼š	å­¦å·¥ç®¡ç†ã€‹å­¦ç”Ÿç®¡ç†ã€‹å­¦ç”Ÿç®¡ç†â€”ä¿®æ”¹
+	å­¦å·¥ç®¡ç†ã€‹å­¦ç”Ÿç®¡ç†ã€‹å­¦ç”Ÿä¿¡æ¯æŸ¥è¯¢â€”ä¿®æ”¹
+	æ•™åŠ¡ç®¡ç†ã€‹æ•™å¸ˆè€ƒæ ¸ã€‹è€ƒæ ¸ä»»åŠ¡ç®¡ç†â€”æŸ¥çœ‹è¯„ä»·ï¼ˆä¸ªåˆ«ï¼‰
+	ç³»ç»Ÿè®¾ç½®ã€‹ç³»ç»Ÿè®¾ç½®ã€‹å­—å…¸ç®¡ç†â€”æ·»åŠ é”®å€¼â€”æè¿°
 
 	
-×¢£ºÑ§¹¤¹ÜÀí¡·Ñ§Éú¹ÜÀí¡·Ñ§Éú¹ÜÀí¡ªÉèÖÃÊÕ·ÑÏî	½¨Òé²»ÓÃºìÉ«
+æ³¨ï¼šå­¦å·¥ç®¡ç†ã€‹å­¦ç”Ÿç®¡ç†ã€‹å­¦ç”Ÿç®¡ç†â€”è®¾ç½®æ”¶è´¹é¡¹	å»ºè®®ä¸ç”¨çº¢è‰²
 
 
+gitï¼š	å³é”®ã€‹gitå…‹éš†ã€‹RULï¼šhttps://github.com/wymlove/wymProject0706â€”â€”ä»Žgithubæ£€å‡ºé¡¹ç›®
+	å³é”®é¡¹ç›®ã€‹Git GUI hereã€‹pushâ€”â€”æœ¬åœ°æ–‡ä»¶ä¸Šä¼ åˆ°github
 
-git£º	ÓÒ¼ü¡·git¿ËÂ¡¡·RUL£ºhttps://github.com/wymlove/wymProject0706¡ª¡ª´Ógithub¼ì³öÏîÄ¿
-	ÓÒ¼üÏîÄ¿¡·Git GUI here¡·push¡ª¡ª±¾µØÎÄ¼þÉÏ´«µ½github
-
-°²×°£ºTortoiseGit
+å®‰è£…ï¼šTortoiseGit
 
 
 
