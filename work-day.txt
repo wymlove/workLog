@@ -4,10 +4,9 @@ IE、火狐、chrome、360（极速、兼容）；
 less
 bootstrap（2、3）
 gulp
-
 webstorm
-
-
+git
+github
 
 
 3、人事管理》人员管理》教师管理—教师信息添加—title的冒号有的中文的有的是英文的不一致
@@ -34,14 +33,11 @@ D:\program\openresty-1.11.2.2-win32\html\static
 @import "../variablesLibrary/blue";
 
 
-
-
 1、学工管理》班级管理》班级评比管理—改分	教务管理》教师考核》考核任务管理—评价—保存
 2、系统设置》日志查询》连接池监视——重置/记录日志并重置
 4、左侧分类hover和active颜色
 5、学工管理》宿舍管理》寝室评比项目管理—新建项目/添加内容（360兼容）
 6、系统设置》日志查询》日志查询—日历的颜色
-
 
 
 
@@ -57,14 +53,6 @@ D:\program\openresty-1.11.2.2-win32\html\static
 
 	
 注：学工管理》学生管理》学生管理—设置收费项	建议不用红色
-
-
-
-div.jbox .jbox-button:hover, div.jbox .jbox-button:focus, div.jbox .jbox-button:active, div.jbox .jbox-button.active, div.jbox .jbox-button.disabled, div.jbox .jbox-button[disabled], div.jbox .jbox-button-hover, div.jbox .jbox-button-active
-
-
-
-554  912
 
 
 
