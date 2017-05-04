@@ -1,0 +1,7 @@
+1、一旦使用 _() 方法封装成Underscore对象之后，就能通过调用value()方法访问封装前的JavaScript数据，还可以直接使用Underscore库中现存的函数
+	var data = {
+		name:'wym',
+		email:"123456@qq.com"
+	}
+	var object = _(data);
+	alert(object.value().name);

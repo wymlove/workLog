@@ -62,7 +62,7 @@ git：	右键》git克隆》RUL：https://github.com/wymlove/wymProject0706—�
 /*study at 添加远程库*/
 /*ECMAScript6  let和const命令*/
 
-
+Sublime Text3 autofilename插件
 
 
 
