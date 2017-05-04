@@ -64,13 +64,13 @@ git：	右键》git克隆》RUL：https://github.com/wymlove/wymProject0706—�
 
 Sublime Text3 autofilename插件
 
+健身、跑步、唱歌、摄影
 
 
+http://htmlpreview.github.com/?		github项目url前加		展示自己项目的demo页面而不是代码
 
 
-
-
-
+backbone.js实战看到2.6功能
 
 
 
