@@ -21,13 +21,45 @@ github
 15、系统设置》日志查询》日志查询—日期范围的input标签建议去掉class="input-mini"
 16、IE8
 17、系统设置》日志查询》日志查询—日期范围框架可以考虑引入bootstrap.min.css  input建议去掉class="input-mini"
+18、人事管理》人员管理》教师管理——教师信息添加——姓名input过长——class多了一个类input-xlarge
+	参考：系统设置》机构用户》用户管理——用户添加
+19、登录页面样式风格
+20、网站ICO图标
 
-9、D:\program\openresty-1.11.2.2-win32\html\static\jquery-ztree\3.5.12\css\zTreeStyle\img
+
+乱码：	学工管理》学生管理》学生管理—修改
+		学工管理》学生管理》学生信息查询—修改
+		教务管理》教师考核》考核任务管理—查看评价（个别）
+		系统设置》系统设置》字典管理—添加键值—描述
+
+		
+主要：	注意input都要加type类型保持按钮样式一致（主要是宽度）
+		乱码问题（个例）
+		人事管理》人员管理》教师管理—教师信息添加—title的冒号有的中文的有的是英文的不一致
+		人事管理》人员管理》教师管理——教师信息添加——姓名input过长——class多了一个类input-xlarge（建议去掉，保持宽度一致）
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+		屏蔽掉顶部最右侧访问网站主页
+		注——学工管理》学生管理》学生管理—设置收费项	建议不用红色
+		
+	
+注：学工管理》学生管理》学生管理—设置收费项	建议不用红色
+
+建议：<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+待解决：学工管理》交费管理》学生交费——顶部——两排
+		重做登录页面
+		系统设置》系统设置》角色管理——角色添加——数据范围点击bug
+		学工管理》新生管理》新生报名——信息详情
+
+
+
+系统设置》系统设置》角色管理——角色添加——角色授权——对号图片位置
+D:\program\openresty-1.11.2.2-win32\html\static\jquery-ztree\3.5.12\css\zTreeStyle\img
+
 
 SVN-src：http://222.168.49.126:18082/svn/dssm/04source/newPlatform/trunk/static
 
 SVN：wym   Wangyingming1
-
 
 D:\program\openresty-1.11.2.2-win32\html\static
 @import "../variablesLibrary/blue";
@@ -40,20 +72,8 @@ D:\program\openresty-1.11.2.2-win32\html\static
 6、系统设置》日志查询》日志查询—日历的颜色
 
 
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-
-
-乱码：	学工管理》学生管理》学生管理—修改
-	学工管理》学生管理》学生信息查询—修改
-	教务管理》教师考核》考核任务管理—查看评价（个别）
-	系统设置》系统设置》字典管理—添加键值—描述
-
-	
-注：学工管理》学生管理》学生管理—设置收费项	建议不用红色
-
-
 git：	右键》git克隆》RUL：https://github.com/wymlove/wymProject0706——从github检出项目
-	右键项目》Git GUI here》push——本地文件上传到github
+		右键项目》Git GUI here》push——本地文件上传到github
 
 安装：TortoiseGit
 
@@ -74,10 +94,17 @@ backbone.js实战看到2.6功能
 
 
 
+li:{width:22%;}		242
+input:{width:24%;}		250
+input-medium:{width:62%;}		207
+									256
+学工管理》新生管理》新生归档——学生列表——查询/一键归档（建议放在一个<li>标签里）									
 
+1920	1768	1680	1440	1280	1024
+166 	146		134		86		70		42
+学生管理》新生管理》新生报名——推荐教师的宽度自适应
+学工管理》学期管理》学期维护——学期维护添加
+学工管理》班级管理》班级评价项目管理——修改内容/添加内容
+学工管理》班级管理》班级评比管理——班级列表——查询按钮后（*只显示今日评价班级）	style="width:auto;"
 
-
-
-
-
-
+查看到学工管理》寝室管理》寝室查询
