@@ -46,10 +46,8 @@ less、bootstrap（2、3）、gulp、webstorm、git、github
 		系统设置》系统设置》角色管理——角色添加——数据范围点击bug
 		学工管理》新生管理》新生报名——信息详情
 
-
 系统设置》系统设置》角色管理——角色添加——角色授权——对号图片位置
 D:\program\openresty-1.11.2.2-win32\html\static\jquery-ztree\3.5.12\css\zTreeStyle\img
-
 
 SVN-src：http://222.168.49.126:18082/svn/dssm/04source/newPlatform/trunk/static
 
@@ -71,7 +69,6 @@ git：	右键》git克隆》RUL：https://github.com/wymlove/wymProject0706—�
 
 安装：TortoiseGit
 
-
 /*study at 添加远程库*/
 /*ECMAScript6  let和const命令*/
 
@@ -79,12 +76,9 @@ Sublime Text3 autofilename插件
 
 健身、跑步、唱歌、摄影
 
-
 http://htmlpreview.github.com/?		github项目url前加		展示自己项目的demo页面而不是代码
 
-
 backbone.js实战看到2.6功能
-
 
 li:{width:22%;}		242
 input:{width:24%;}		250
@@ -104,26 +98,7 @@ input-medium:{width:62%;}		207
 学工管理》寝室管理》寝室查询——身份证号（码）——去掉码
 
 alert-success：确认弹出颜色
-
-查询：input-medium
-添加：input-xlarge
-
-
-
-
-右侧添加：		普通input		right-normal-input
-				下拉input		right-select-input
-				搜素input		right-search-input
-		
 				
-顶部查询：		普通input		top-normal-input
-				下拉input		top-select-input
-				搜索input		right-search-input
-				
-				
-				
-				
-
 测试页面：		教务管理》听课管理》听课记录——听课记录添加
 				（授课时间点击显示的日期颜色bug）
 
