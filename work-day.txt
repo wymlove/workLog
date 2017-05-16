@@ -98,13 +98,10 @@ input-medium:{width:62%;}		207
 学工管理》寝室管理》寝室查询——身份证号（码）——去掉码
 
 alert-success：确认弹出颜色
-				
-测试页面：		教务管理》听课管理》听课记录——听课记录添加
-				（授课时间点击显示的日期颜色bug）
+确认删除等弹出的图标的颜色
 
 .btns下的多个input最好放一个.btns里
 教务管理》听课管理》听课记录——听课记录添加——带搜索的input框去掉input-small
-
 
 普通input：.input-medium
 时间input：.input-small
