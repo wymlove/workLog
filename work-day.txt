@@ -118,6 +118,9 @@ alert-success：确认弹出颜色
 班级成长曲线需要和高老师沟通
 
 
+select2.js 		1082行开始		官方版本的select2.js
+
+
 
 
 
