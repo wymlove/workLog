@@ -123,7 +123,7 @@ select2.js 		1082行开始		官方版本的select2.js
 
 学工管理》学生管理》学生管理——学生列表——调班
 
-
+<link rel="shortcut icon" href="/publisher/base_css/favicon.ico">
 
 
 
