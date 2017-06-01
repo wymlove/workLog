@@ -119,10 +119,20 @@ select2.js 		1082行开始		官方版本的select2.js
 
 如需两列显示，在form中加一类区别，类下control-group：width：50%;float:left;
 
+192.168.12.46
+ 
+backbone
+angular
+react
+vue
+node
 
+SUI+backbone+cordova
+ionic
+react
+vue						vue + vue-strap + babel(es6) + webpack + vue-router		vue+vue-resource		vue-router	vue-loader
 
-
-
+swiper.js
 
 
 
