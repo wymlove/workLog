@@ -128,7 +128,7 @@ vue
 node
 
 SUI+backbone+cordova
-ionic
+ionic					cordova
 react
 vue						vue + vue-strap + babel(es6) + webpack + vue-router		vue+vue-resource		vue-router	vue-loader
 
